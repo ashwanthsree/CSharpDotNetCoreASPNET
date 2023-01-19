@@ -1,0 +1,10 @@
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\bin\Debug\netcoreapp3.1\BookStore.BLL.deps.json
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\bin\Debug\netcoreapp3.1\BookStore.BLL.dll
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\bin\Debug\netcoreapp3.1\BookStore.BLL.pdb
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.AssemblyInfoInputs.cache
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.AssemblyInfo.cs
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.csproj.CoreCompileInputs.cache
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.dll
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.pdb
+C:\Interviews\Apps\OnlineBookStore-Web\BookStore.BLL\obj\Debug\netcoreapp3.1\BookStore.BLL.csproj.AssemblyReference.cache
